@@ -19,7 +19,7 @@ a {
 }
 /* NavBar */
 .header {
-    background: url('/img/desktop/image-header.jpg') no-repeat
+    background: url('../img/desktop/image-header.jpg') no-repeat
     center;
     /* position: relative; */
     object-fit: cover;
