@@ -343,9 +343,6 @@ a {
 }
 
 @media only screen and (max-width: 650px) {
-    body {
-    
-    }
     .header ul {
         display: none;
         
@@ -508,4 +505,4 @@ a {
         margin: 5rem 9rem;
         font-size: 20px;
     } */
-}
+
