@@ -250,7 +250,8 @@ a {
 }
 
 .tests img {
-    margin-left: 45%;
+    /* justify-content: space-evenly; */
+    margin-left: 40%;
     border-radius: 50%;
     width: 5rem;
     height: 5rem;
